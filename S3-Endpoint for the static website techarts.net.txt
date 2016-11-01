@@ -1,0 +1,4 @@
+
+S3-Endpoint for the static website techarts.net
+
+techarts.net.s3-website.ap-south-1.amazonaws.com
